@@ -1,4 +1,4 @@
-package cn.github.sometools;
+package io.github.hellomrk.sometools;
 
 public class ListTools {
     /**
