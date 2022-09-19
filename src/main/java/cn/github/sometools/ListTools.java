@@ -1,4 +1,4 @@
-package cn.likai.sometools;
+package cn.github.sometools;
 
 public class ListTools {
     /**
